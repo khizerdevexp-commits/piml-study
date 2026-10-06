@@ -1,0 +1,16 @@
+# Python virtual environment and packages
+
+# Core packages
+youtube-transcript-api
+PyYAML
+requests
+numpy
+
+# ML / scientific stacks
+torch
+jax
+jaxlib
+
+# Optional but useful
+matplotlib
+pandas

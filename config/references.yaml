@@ -1,0 +1,16 @@
+references:
+  Hamiltonian Neural Networks:
+    - "Greydanus, Samuel, et al. 'Hamiltonian neural networks.'"
+    - "Bertalan, Tom, et al. 'Learning nonlinear dynamics with graph neural networks.'"
+    - "Brunton, Steven L., et al. 'Machine Learning for Physics and the Physics of Learning.'"
+
+  Physics-Informed Neural Networks:
+    - "Raissi, Maziar, Paris Perdikaris, and George Em Karniadakis. 'Physics-informed neural networks: A deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations.'"
+    - "Karniadakis, George Em, et al. 'Physics-informed machine learning.'"
+
+  Neural ODEs:
+    - "Chen, Ricky T. Q., et al. 'Neural ordinary differential equations.'"
+
+  Operator Learning:
+    - "Lu, Lu, et al. 'Learning operators with deepONet.'"
+    - "Li, Zongyi, et al. 'Fourier neural operator for parametric partial differential equations.'"

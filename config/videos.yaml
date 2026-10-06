@@ -1,0 +1,30 @@
+videos:
+  - id: "AEOcss20nDA"
+    title: "Hamiltonian Neural Networks (HNN)"
+    topic: "Hamiltonian Neural Networks"
+    url: "https://m.youtube.com/watch?v=AEOcss20nDA&list=PLMrJAkhIeNNQ0BaKuBKY43k4xMo6NSbBa&index=17&pp=iAQB"
+    references:
+      - "Greydanus, Samuel, et al. 'Hamiltonian neural networks.'"
+      - "Brunton, Steven L., et al. 'Machine Learning for Physics and the Physics of Learning.'"
+      - "Bertalan, Tom, et al. 'Learning nonlinear dynamics with graph neural networks.'"
+
+  - id: "VIDEO_ID_2"
+    title: "Physics-Informed Neural Networks (PINN)"
+    topic: "Physics-Informed Neural Networks"
+    url: "https://www.youtube.com/watch?v=VIDEO_ID_2"
+    references:
+      - "Raissi, Maziar, Paris Perdikaris, and George Em Karniadakis. 'Physics-informed neural networks: A deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations.'"
+
+  - id: "VIDEO_ID_3"
+    title: "Neural ODEs"
+    topic: "Neural ODEs"
+    url: "https://www.youtube.com/watch?v=VIDEO_ID_3"
+    references:
+      - "Chen, Ricky T. Q., et al. 'Neural ordinary differential equations.'"
+
+  - id: "VIDEO_ID_4"
+    title: "DeepONet"
+    topic: "Operator Learning"
+    url: "https://www.youtube.com/watch?v=VIDEO_ID_4"
+    references:
+      - "Lu, Lu, et al. 'Learning operators with deepONet.'"
